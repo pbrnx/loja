@@ -1,9 +1,5 @@
-# Foi criado o projeto React + vite
-
-#pacotes instalados
- npm install react-router-dom
- npm install react-bootstrap
-
- foi utilizado também css modules
- criação de rotas com RouterProvider
- também possui um componente Error
+Pedro Augusto Carneiro Barone Bomfim RM: 99781 
+João Pedro de Albuquerque Oliveira RM: 551579 
+Mauricio Santos Rodrigues RM: 551076 
+Vitor Reyes Souza RM: 550766 
+Luis Serafin Bezagio Mendieta RM: 551588
